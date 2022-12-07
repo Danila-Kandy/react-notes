@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "Danik",
+      "email": "kandybovich.danik@gmail.com",
+      "password": "8998",
+      "createdAt": "19.11.2022, 18:29:03",
+      "id": 4
+    },
+    {
+      "name": "Danikax",
+      "email": "dsadasd",
+      "password": "123",
+      "createdAt": "19.11.2022, 19:09:40",
+      "id": 6
+    },
+    {
+      "name": "vanis",
+      "email": "mbjjbhbj",
+      "password": "123",
+      "createdAt": "19.11.2022, 19:13:31",
+      "id": 7
+    },
+    {
+      "name": "Danikq",
+      "email": "dsdsadad",
+      "password": "11",
+      "createdAt": "19.11.2022, 20:33:07",
+      "id": 8
+    },
+    {
+      "name": "Shizophrennia",
+      "email": "halupko.egor@gmail.com",
+      "password": "danilaklassniy",
+      "createdAt": "20.11.2022, 00:14:30",
+      "id": 9
+    }
+  ],
+  "notes": [
+    {
+      "title": "egichan",
+      "body": "thx ",
+      "userId": 9,
+      "createdAt": "20.11.2022, 00:16:30",
+      "id": 7
+    },
+    {
+      "title": "Худший день в жизни",
+      "body": "Сегодня я в первый раз сломал унитаз",
+      "userId": 4,
+      "createdAt": "20.11.2022, 22:31:01",
+      "id": 8
+    }
+  ]
+}
