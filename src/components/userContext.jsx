@@ -19,7 +19,7 @@ function UserContextProvider({ children }) {
   const [user, setUser] = useState(() => {
     try {
       const userString = localStorage.getItem('user')
-      return userString ? JSON.parse(userString) : null
+      return userString ? JSON.parse(userString) : 0
     } catch (e) {
       return {}
     }

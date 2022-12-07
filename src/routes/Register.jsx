@@ -37,7 +37,7 @@ function Register() {
         }
       })
 
-    if ((result = 1)) {
+    if (result) {
       if (
         password === repeatPass &&
         email !== '' &&

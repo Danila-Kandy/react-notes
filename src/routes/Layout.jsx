@@ -4,7 +4,7 @@ import { useUserContext } from '../components/userContext'
 export default function Layout() {
   const user = useUserContext()
   const handleLogout = () => {
-    if (window.confirm('Are you sure you want to Log out?') == true)
+    if (window.confirm('Are you sure you want to Log out?') === true)
       user.setUser({ email: '' })
   }
   const arrUser = [user]
